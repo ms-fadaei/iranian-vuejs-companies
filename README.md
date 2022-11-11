@@ -1,4 +1,4 @@
-# Iranian Vue JS Compabies
+# Iranian Vue JS Companies
 
 > List of Iranian companies that uses Vue JS as the main framework on their websites
 
