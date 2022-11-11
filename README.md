@@ -24,4 +24,4 @@
 * [Tank](https://tank.ir/): Nuxt JS, Vue JS
 * [Last Second](https://lastsecond.ir/): Nuxt JS, Vue JS
 * [Irani Card](iranicard.ir): Nuxt JS, Vue JS
-* [IToll](https://itoll.ir/): Nuxt JS, Vue JS
+* [iToll](https://itoll.ir/): Nuxt JS, Vue JS
