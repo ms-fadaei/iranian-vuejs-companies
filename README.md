@@ -1,6 +1,6 @@
 # Iranian Vue JS Companies
 
-> List of Iranian well-known companies that use Vue JS as the main framework on their websites
+> List of Iranian known companies that use Vue JS as the main framework on their websites
 
 * [Alibaba](https://www.alibaba.ir/): Vue JS, Vite
 * [Basalam](https://basalam.com/): Nuxt JS, Vue JS
@@ -21,3 +21,7 @@
 * [Digikala Next](https://diginext.ir/): Vue JS
 * [Asan Bourse](https://asanbourse.ir/): Nuxt JS, Vue JS
 * [Karboom](https://karboom.io/): Vue JS
+* [Tank](https://tank.ir/): Nuxt JS, Vue JS
+* [Last Second](https://lastsecond.ir/): Nuxt JS, Vue JS
+* [Irani Card](iranicard.ir): Nuxt JS, Vue JS
+* [IToll](https://itoll.ir/): Nuxt JS, Vue JS
