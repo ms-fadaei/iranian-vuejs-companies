@@ -14,4 +14,4 @@
 * [Deema](https://deema.agency): Vue JS
 * [Ostad Bank](https://www.ostadbank.com/): Nuxt JS, Vue JS
 * [Aban Tether](https://abantether.com/): Vue JS
-* [Mobit](https://www.mobit.ir/): Vue JS
+* [Mobit](https://www.mobit.ir/): Nuxt JS, Vue JS
