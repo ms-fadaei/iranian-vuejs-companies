@@ -34,4 +34,10 @@
 * [Timcheh](https://timcheh.com/): Nuxt JS, Vue JS
 * [Webjar](https://webjar.ir/): Nuxt JS, Vue JS
 * [Vandar](https://vandar.io/): Vue JS
-* [drnext](https://drnext.ir/): Nuxt JS, Vue JS
+* [Dr Next](https://drnext.ir/): Nuxt JS, Vue JS
+* [Ex Coino](https://www.excoino.com/): Nuxt JS, Vue JS
+* [Bitrah](https://bitrah.com/fa): Vue JS
+* [Chechilas](https://chechilas.com/): Vue JS
+* [Adilar](https://adilar.com/): Nuxt JS, Vue JS
+* [Hacoupian](https://hacoupian.net/): Vue JS
+* [tgju](https://www.tgju.org/): Vue JS
