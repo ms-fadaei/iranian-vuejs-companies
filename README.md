@@ -29,7 +29,7 @@
 * [Xino Digital](https://xino.digital/): Nuxt JS, Vue JS
 * [ArvanCloud](https://www.arvancloud.com/): Nuxt JS, Vue JS
 * [Lendo](http://lendo.ir/): Nuxt JS, Vue JS
-* [Zarinpal](http://www.zarinpal.com/): Nuxt JS, Vue JS
+* [Zarinpal](http://www.zarinpal.com/): Vue JS
 * [Axon](http://axon.me/): Nuxt JS, Vue JS
 * [Timcheh](https://timcheh.com/): Nuxt JS, Vue JS
 * [Webjar](https://webjar.ir/): Nuxt JS, Vue JS
