@@ -33,5 +33,5 @@
 * [Axon](http://axon.me/): Nuxt JS, Vue JS
 * [Timcheh](https://timcheh.com/): Nuxt JS, Vue JS
 * [Webjar](https://webjar.ir/): Nuxt JS, Vue JS
-* [Vandar](https://vandar.io/): Nuxt JS, Vue JS
+* [Vandar](https://vandar.io/): Vue JS
 
