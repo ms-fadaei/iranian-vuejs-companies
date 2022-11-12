@@ -40,4 +40,6 @@
 * [Chechilas](https://chechilas.com/): Vue JS
 * [Adilar](https://adilar.com/): Nuxt JS, Vue JS
 * [Hacoupian](https://hacoupian.net/): Vue JS
-* [tgju](https://www.tgju.org/): Vue JS
+* [TGJU](https://www.tgju.org/): Vue JS
+* [Visit 24](https://visit24.ir/): Nuxt JS, Vue JS
+* [Pay Star](https://paystar.ir/): Vue JS
