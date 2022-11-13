@@ -43,3 +43,6 @@
 * [TGJU](https://www.tgju.org/): Vue JS
 * [Visit 24](https://visit24.ir/): Nuxt JS, Vue JS
 * [Pay Star](https://paystar.ir/): Vue JS
+* [Ghabzino](https://ghabzino.com/): Vue JS
+* [Tahlil App](https://tahlilapp.com/): Nuxt JS, Vue JS
+
