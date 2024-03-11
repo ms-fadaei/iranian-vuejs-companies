@@ -2,51 +2,50 @@
 
 > List of Iranian known companies that use Vue JS as the main framework on their websites
 
-* [Alibaba](https://www.alibaba.ir/): Nuxt Js, Vue JS, Vite, Vitest
-* [Basalam](https://basalam.com/): Nuxt JS, Vue JS
-* [Cafe Bazaar](https://cafebazaar.ir/): Nuxt JS, Vue JS
-* [Yektanet](https://demo.yektanet.com/): Nuxt JS, Vue JS
-* [Achareh](https://achareh.co): Nuxt JS, Vue JS
-* [Jabama](https://www.jabama.com/): Nuxt JS, Vue JS
-* [Bama](https://bama.ir/): Nuxt JS, Vue JS
-* [Nobitex](https://nobitex.ir/): Nuxt JS, Vue JS
-* [E Seminar](https://eseminar.tv): Nuxt JS, Vue JS
-* [Deema](https://deema.agency): Vue JS
-* [Ostad Bank](https://www.ostadbank.com/): Nuxt JS, Vue JS
-* [Aban Tether](https://abantether.com/): Vue JS
-* [Mobit](https://www.mobit.ir/): Nuxt JS, Vue JS
-* [3 Click](https://3click.com/): Nuxt JS, Vue JS
-* [Azki Vam](https://azkivam.com/): Nuxt JS, Vue JS
-* [Pay](https://www.pay.ir/): Vue JS
-* [Digikala Next](https://diginext.ir/): Vue JS
-* [Asan Bourse](https://asanbourse.ir/): Nuxt JS, Vue JS
-* [Karboom](https://karboom.io/): Vue JS
-* [Tank](https://tank.ir/): Nuxt JS, Vue JS
-* [Last Second](https://lastsecond.ir/): Nuxt JS, Vue JS
-* [Irani Card](iranicard.ir): Nuxt JS, Vue JS
-* [iToll](https://itoll.ir/): Nuxt JS, Vue JS
-* [Ernyka](http://www.ernyka.com/): Nuxt JS, Vue JS
-* [Xino Digital](https://xino.digital/): Nuxt JS, Vue JS
-* [ArvanCloud](https://www.arvancloud.com/): Nuxt JS, Vue JS
-* [Lendo](http://lendo.ir/): Nuxt JS, Vue JS
-* [Zarinpal](http://www.zarinpal.com/): Vue JS
-* [Axon](http://axon.me/): Nuxt JS, Vue JS
-* [Timcheh](https://timcheh.com/): Nuxt JS, Vue JS
-* [Webjar](https://webjar.ir/): Nuxt JS, Vue JS
-* [Vandar](https://vandar.io/): Vue JS
-* [Dr Next](https://drnext.ir/): Nuxt JS, Vue JS
-* [Ex Coino](https://www.excoino.com/): Nuxt JS, Vue JS
-* [Bitrah](https://bitrah.com/fa): Vue JS
-* [Chechilas](https://chechilas.com/): Vue JS
-* [Adilar](https://adilar.com/): Nuxt JS, Vue JS
-* [Hacoupian](https://hacoupian.net/): Vue JS
-* [TGJU](https://www.tgju.org/): Vue JS
-* [Visit 24](https://visit24.ir/): Nuxt JS, Vue JS
-* [Pay Star](https://paystar.ir/): Vue JS
-* [Ghabzino](https://ghabzino.com/): Vue JS
-* [Tahlil App](https://tahlilapp.com/): Nuxt JS, Vue JS
-* [Buskool](https://www.buskool.com/): Vue JS
-* [Sarmayex](https://sarmayex.com/): Vue JS
-* [Gozine2](https://gozine2.ir/): Vue JS
-* [Top](https://top.ir/): Vue JS
-
+- [Alibaba](https://www.alibaba.ir/) | [💼](https://www.linkedin.com/company/alibaba-travels/ 'LinkedIn') | [🌐](https://www.alibaba.ir/jobs 'Official career web page') | [🔎](https://jobvision.ir/companies/90/%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85-%D8%B4%D8%B1%DA%A9%D8%AA-%D8%B3%D9%81%D8%B1%D9%87%D8%A7%DB%8C-%D8%B9%D9%84%DB%8C-%D8%A8%D8%A7%D8%A8%D8%A7 'Jobvision') | [🔍](https://jobinja.ir/companies/alibaba/jobs 'Jobinja')
+- [Basalam](https://basalam.com/) | [🌐](https://join.basalam.com/ 'Official career web page')
+- [Cafe Bazaar](https://cafebazaar.ir/) | [🌐](https://careers.cafebazaar.ir/ 'Official career web page')
+- [Yektanet](https://demo.yektanet.com/) | [🌐](https://www.yektanet.com/careers/ 'Official career web page')
+- [Achareh](https://achareh.co)
+- [Jabama](https://www.jabama.com/) | [🌐](https://careers.jabama.com/ 'Official career web page')
+- [Bama](https://bama.ir/) | [🌐](https://bama.ir/join 'Official career web page')
+- [Nobitex](https://nobitex.ir/) | [🌐](https://jobs.nobitex.ir/ 'Official career web page')
+- [E Seminar](https://eseminar.tv)
+- [Deema](https://deema.agency) | [🌐](https://jobs.deema.agency/ 'Official career web page')
+- [Ostad Bank](https://www.ostadbank.com/)
+- [Aban Tether](https://abantether.com/)
+- [Mobit](https://www.mobit.ir/) | [🌐](https://www.mobit.ir/careers 'Official career web page')
+- [3 Click](https://3click.com/) | [🌐](https://3click.com/jobs 'Official career web page')
+- [Azki Vam](https://azkivam.com/)
+- [Pay](https://www.pay.ir/)
+- [Digikala Next](https://diginext.ir/)
+- [Asan Bourse](https://asanbourse.ir/) | [🌐](https://asanbourse.ir/recruitment 'Official career web page')
+- [Karboom](https://karboom.io/)
+- [Tank](https://tank.ir/)
+- [Last Second](https://lastsecond.ir/)
+- [Irani Card](https://iranicard.ir/) | [🌐](https://www.iranicard.ir/jobs/ 'Official career web page')
+- [iToll](https://itoll.ir/) | [🌐](https://itoll.com/jobs 'Official career web page')
+- [Ernyka](http://www.ernyka.com/)
+- [Xino Digital](https://xino.digital/) | [🌐](https://xino.digital/careers 'Official career web page')
+- [ArvanCloud](https://www.arvancloud.com/) | [🌐](https://www.arvancloud.ir/fa/jobs 'Official career web page')
+- [Lendo](http://lendo.ir/) | [🌐](https://career.hrcando.ir/co/Lendo 'Official career web page')
+- [Zarinpal](http://www.zarinpal.com/) | [🌐](https://www.zarinpal.com/landing/jobs/ 'Official career web page')
+- [Axon](http://axon.me/)
+- [Timcheh](https://timcheh.com/) | [🌐](https://timcheh.com/landing/career 'Official career web page')
+- [Webjar](https://webjar.ir/)
+- [Vandar](https://vandar.io/) | [🌐](https://vandar.io/career-path/ 'Official career web page')
+- [Dr.Next](https://drnext.ir/)
+- [Ex Coino](https://www.excoino.com/)
+- [Bitrah](https://bitrah.com/fa)
+- [Chechilas](https://chechilas.com/)
+- [Adilar](https://adilar.com/) | [🌐](https://plus.adilar.com/ 'Official career web page')
+- [Hacoupian](https://hacoupian.net/) | [🌐](https://hacoupian.net/job-opportunities/ 'Official career web page')
+- [TGJU](https://www.tgju.org/)
+- [Visit 24](https://visit24.ir/)
+- [Pay Star](https://paystar.ir/)
+- [Ghabzino](https://ghabzino.com/) | [🌐](https://ghabzino.com/employment 'Official career web page')
+- [Tahlil App](https://tahlilapp.com/)
+- [Buskool](https://www.buskool.com/)
+- [Sarmayex](https://sarmayex.com/)
+- [Gozine2](https://gozine2.ir/)
+- [Top](https://top.ir/) | [🌐](https://top.ir/career 'Official career web page')
