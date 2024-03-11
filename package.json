@@ -1,0 +1,5 @@
+{
+    "scripts": {
+        "prettier": "prettier --write README.md"
+    }
+}
