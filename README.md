@@ -24,7 +24,7 @@
 - [Tank](https://tank.ir/)
 - [Last Second](https://lastsecond.ir/)
 - [Irani Card](https://iranicard.ir/) | [🌐](https://www.iranicard.ir/jobs/ 'Official career web page')
-- [iToll](https://itoll.ir/) | [🌐](https://itoll.com/jobs 'Official career web page')
+- [iToll](https://itoll.com/) | [🌐](https://itoll.com/jobs 'Official career web page')
 - [Ernyka](http://www.ernyka.com/)
 - [Xino Digital](https://xino.digital/) | [🌐](https://xino.digital/careers 'Official career web page')
 - [ArvanCloud](https://www.arvancloud.com/) | [🌐](https://www.arvancloud.ir/fa/jobs 'Official career web page')
