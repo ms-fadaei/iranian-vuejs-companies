@@ -3,6 +3,7 @@
 > List of Iranian known companies that use Vue JS as the main framework on their websites
 
 - [Alibaba](https://www.alibaba.ir/) | [💼](https://www.linkedin.com/company/alibaba-travels/ 'LinkedIn') | [🌐](https://www.alibaba.ir/jobs 'Official career web page') | [🔎](https://jobvision.ir/companies/90/%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85-%D8%B4%D8%B1%DA%A9%D8%AA-%D8%B3%D9%81%D8%B1%D9%87%D8%A7%DB%8C-%D8%B9%D9%84%DB%8C-%D8%A8%D8%A7%D8%A8%D8%A7 'Jobvision') | [🔍](https://jobinja.ir/companies/alibaba/jobs 'Jobinja')
+- [Pateh](https://www.pateh.com/) | [💼](https://www.linkedin.com/company/patehtravelagency/ 'LinkedIn') 
 - [Basalam](https://basalam.com/) | [🌐](https://join.basalam.com/ 'Official career web page')
 - [Cafe Bazaar](https://cafebazaar.ir/) | [🌐](https://careers.cafebazaar.ir/ 'Official career web page')
 - [Yektanet](https://demo.yektanet.com/) | [🌐](https://www.yektanet.com/careers/ 'Official career web page')
